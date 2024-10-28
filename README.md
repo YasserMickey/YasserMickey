@@ -4,7 +4,7 @@
 
 ## Who am I? 🤔
 
-- A digital marketing, analtytics and e-commerce enthusiast who decided that crunching numbers is just as fun as crunching cookies (both digital and chocolate chip).
+- A digital marketing, analytics and e-commerce enthusiast who decided that crunching numbers is just as fun as crunching cookies (both digital and chocolate chip).
 - A self-proclaimed **Data Sorcerer**.
 - Slightly dangerous with Python, R, PHP, and SQL—handle with care!
 
